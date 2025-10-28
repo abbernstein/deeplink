@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mishloha.mishadmin",
+      "sha256_cert_fingerprints": [
+        "17:B1:E2:20:BA:59:F9:3F:FB:CA:93:C9:0F:44:17:F8:39:13:75:7C:A5:DB:22:18:4A:54:BE:EC:C2:D3:47:DA"
+      ]
+    }
+  }
+]
